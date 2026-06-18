@@ -1,7 +1,5 @@
-streamlit>=1.45
-pandas>=2.2.3
-numpy>=2.1
-scikit-learn>=1.6
-joblib>=1.4
-openpyxl>=3.1.5
-tabpfn-client
+streamlit
+tabpfn_client
+pandas
+openpyxl
+scikit-learn
